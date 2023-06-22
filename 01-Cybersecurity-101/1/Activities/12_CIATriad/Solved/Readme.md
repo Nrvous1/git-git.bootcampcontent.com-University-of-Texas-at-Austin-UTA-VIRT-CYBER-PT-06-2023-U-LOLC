@@ -38,7 +38,7 @@
 
    - **Solution:** Integrity
 
-10. A cybercriminal launches a DoS attack that floods a website with unwanted traffic from multiple computers and takes the site offline. 
+10. A cybercriminal launches a DoS attack that floods a website with unwanted traffic from multiple computers and takes the site offline. .
 
     - **Solution:** Availability
 
